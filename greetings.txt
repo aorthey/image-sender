@@ -1,0 +1,6 @@
+#each line without a '#' at the beginning will be used as a greeting slogan
+#for the postcard (blank lines will be omitted, too)
+
+Happy Birthday!
+Alles Gute zum %year%. Geburtstag!
+Happy %YEAR%th Birthday!
